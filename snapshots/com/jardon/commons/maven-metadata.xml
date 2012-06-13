@@ -2,11 +2,10 @@
 <metadata>
   <groupId>com.jardon</groupId>
   <artifactId>commons</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120105041522</lastUpdated>
+    <lastUpdated>20120613063428</lastUpdated>
   </versioning>
 </metadata>
